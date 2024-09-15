@@ -1,0 +1,22 @@
+.listItem {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	gap: 20px;
+	box-shadow: 0 0 5px 1px #c9bfbf;
+	padding: 10px;
+	min-width: 300px;
+}
+
+.item {
+	align-content: center;
+}
+
+.listData {
+	display: flex;
+	flex-direction: column;
+}
+
+.btn {
+	box-shadow: 0 0 1px 1px #b3b3b3;
+}
